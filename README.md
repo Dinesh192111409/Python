@@ -19,7 +19,7 @@ student = {
   
 **Dictionary Syntax:**
 ```python
-dict_name = {
+😂😂😂😂😂😂😂😂😂😂😘😎😶‍🌫️😶‍🌫️dict_name = {
     key1: value1,
     key2: value2,
     ...
